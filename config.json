@@ -43,7 +43,7 @@
     "OWNERID": "100084553454309",
     "BOTCREATOR": "Tantan",
     "FACEBOOK": "https://www.facebook.com/profile.php?id=100084553454309&mibextid=ZbWKwL",
-    "rankupmode": "gifcanvas",
+    "rankupmode": "disable",
     "BanTemplate": "disable",
     "AutoOffBot": "disable",
     "AutoOffBotStartSleep": "01:00",
@@ -55,8 +55,8 @@
     "AutoPost": "disable",
     "AutoPostText": "Hindi ako minahal (every 12 hours)",
     "AutoPostPerHour": "12",
-    "AutoPostGreet": "disable",
-    "AutoPostGreetPostPerHour": "6",
+    "AutoPostGreet": "enable",
+    "AutoPostGreetPostPerHour": "2",
     "AutoPostChristmasCountdown": "disable",
     "HolidayAutoGreet": "enable",
     "ChristmasCountdown": "enable",
@@ -97,7 +97,7 @@
     },
     "log": {
         "enable": true,
-        "adminID": "100036956043695"
+        "adminID": "100084553454309"
     },
     "rankup": {
         "autoUnsend": "",
