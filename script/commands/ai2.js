@@ -11,7 +11,7 @@ let isPrimaryApiStable = true;
 
 module.exports = {
     config: {
-        name: "ai",
+        name: "ai2",
         version: "1.0.0",
         hasPermssion: 0,
         credits: "Jonell Magallanes",
