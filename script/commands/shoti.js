@@ -24,7 +24,7 @@ module.exports.run = async ({ api, event, args }) => {
   const prompt = args.join(" ");
 
   if (!prompt[0]) { 
-    api.sendMessage("𝖦𝖤𝖭𝖤𝖱𝖠𝖳𝖨𝖭𝖦 𝖳𝖧𝖤 𝖵𝖨𝖣𝖤𝖮", threadID, messageID);
+    api.sendMessage("AYAW SIGE PAUTOG BRAD KAY BAD NA PATOTOYA", threadID, messageID);
   }
 
   try {
