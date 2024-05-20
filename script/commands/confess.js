@@ -4,7 +4,7 @@ version: "1.0.0",
 hasPermssion: 0,
 credits: "Deku",
 description: "Confess to someone",
-commandCategory: "...",
+commandCategory: "entertainment",
 usages: "[fb url or uid | message]",
 cooldowns: 0
 };
